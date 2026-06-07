@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/amal-portfolio/static/css/main.d95322e3.css",
+    "main.js": "/amal-portfolio/static/js/main.6dd72603.js",
+    "static/js/453.690d2461.chunk.js": "/amal-portfolio/static/js/453.690d2461.chunk.js",
+    "static/media/wheaterProj.png": "/amal-portfolio/static/media/wheaterProj.227a5f9b4ea4d8c71fc7.png",
+    "static/media/my-foto.png": "/amal-portfolio/static/media/my-foto.6b3b343219a852fea2f6.png",
+    "static/media/prayer.jpg": "/amal-portfolio/static/media/prayer.3a97572e19a67d389b4a.jpg",
+    "static/media/yummyProj.png": "/amal-portfolio/static/media/yummyProj.3a7a6ac5e4ecd3c3fb9f.png",
+    "static/media/ecomProj.png": "/amal-portfolio/static/media/ecomProj.9e03fe3c89a6e843c2de.png",
+    "static/media/fa-solid-900.woff2": "/amal-portfolio/static/media/fa-solid-900.ce9a3fa740bd60b4ac3b.woff2",
+    "static/media/fa-brands-400.woff2": "/amal-portfolio/static/media/fa-brands-400.f276979f97f1cf375d23.woff2",
+    "static/media/bakery.jpg": "/amal-portfolio/static/media/bakery.927a9633ab541a0269e4.jpg",
+    "static/media/fa-regular-400.woff2": "/amal-portfolio/static/media/fa-regular-400.cfbad32c79d9dda6af4a.woff2",
+    "static/media/revicons.eot": "/amal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/amal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/amal-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/fa-v4compatibility.woff2": "/amal-portfolio/static/media/fa-v4compatibility.296da06936a3373940c8.woff2",
+    "static/media/oop-game.webp": "/amal-portfolio/static/media/oop-game.1e5557cb91ea96b4d222.webp",
+    "index.html": "/amal-portfolio/index.html",
+    "main.d95322e3.css.map": "/amal-portfolio/static/css/main.d95322e3.css.map",
+    "main.6dd72603.js.map": "/amal-portfolio/static/js/main.6dd72603.js.map",
+    "453.690d2461.chunk.js.map": "/amal-portfolio/static/js/453.690d2461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95322e3.css",
+    "static/js/main.6dd72603.js"
+  ]
+}
