@@ -1,0 +1,92 @@
+.footer {
+  background: linear-gradient(135deg, #020617, #0f172a);
+  color: white;
+ padding: 60px 0 20px;
+  position: relative;  
+    margin-top: auto;
+  
+}
+
+.footer h4.name {
+  color: var(--title) !important;
+  font-weight: bold;
+}
+
+.footer h5 {
+  margin-bottom: 15px;
+  color: var(--title) !important;
+}
+
+
+
+/* service */
+.footer-service {
+  list-style:none;
+ 
+}
+
+.footer-service li {
+  margin-bottom: 10px;
+  color: var(--second-color) !important;
+  transition: .3s;
+}
+
+
+.color{
+  color: var(--title) !important;
+}
+
+
+
+/* Social */
+.social-icons a {
+  margin-right: 10px;
+  font-size: 20px;
+  color: white;
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  color: #0d0d0e !important;
+  transform: translateY(-5px) scale(1.1);
+}
+
+a[aria-label="facebook"] svg,
+a[aria-label="linkedin"] svg {
+  color: #0A66C2; /* Facebook blue */
+  font-size: 24px;
+  transition: .3s;
+}
+a[aria-label="facebook"] svg:hover,
+a[aria-label="linkedin"] svg:hover {
+  color: #020617; /* Facebook blue */
+  
+}
+
+a[href*="wa.me"] svg {
+  color: #25D366; /* WhatsApp green */
+  font-size: 24px;
+  transition: .3s;
+}
+a[href*="wa.me"] svg:hover{
+color: #020617;
+}
+
+/* Scroll button */
+.top-btn {
+  background: #38bdf8;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.top-btn:hover {
+  background: white;
+  transform: translateY(-5px);
+}
+ul{
+  list-style: none;
+  
+}
